@@ -25,7 +25,7 @@ public class Lessons_1 {
 
 		System.out.println("");
 
-		//		Two
+		//		Second
 
 		System.out.println("Byte=" + Byte.MIN_VALUE + "-" + Byte.MAX_VALUE);
 		System.out.println("Short=" + Short.MIN_VALUE + "-" + Short.MAX_VALUE);
@@ -36,7 +36,7 @@ public class Lessons_1 {
 		System.out.println("Float=" + Float.MIN_VALUE + "-" + Float.MAX_VALUE);
 		System.out.println("");
 
-//		Three
+//		Third
 
 		int array[] = { 44, 15, 65, 154, 358, 3, 68, 25, 4, 54 };
 

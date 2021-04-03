@@ -25,7 +25,7 @@ public class Lessons_1 {
 
 		System.out.println("");
 
-		//		Second
+//		Second
 
 		System.out.println("Byte=" + Byte.MIN_VALUE + "-" + Byte.MAX_VALUE);
 		System.out.println("Short=" + Short.MIN_VALUE + "-" + Short.MAX_VALUE);
